@@ -1,17 +1,14 @@
-<h1> HENRIQUE KATO </h1>
+<h1> Henrique Kato</h1>
 
 ## Projeto Website DSDB
 
 - Para acessar o meu site use este [link](https://katohenrique.github.io/Website/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Quem eu sou
 
 ```markdown
-Syntax highlighted code block
+
+Eu sou Henrique Kato, graduado em Engenharia Elétrica pela UFPR e estou realizando Pós graduação Data Science & Big Data (DSDB). Inicialmente este site é para a pós, porém futuramente poderá se tornar o meu portfólio. Ainda está em testes iniciais e está bem simples
 
 # Header 1
 ## Header 2
