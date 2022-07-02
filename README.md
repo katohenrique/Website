@@ -1,15 +1,15 @@
 <h1> Henrique Kato</h1>
 
-## Projeto Website DSDB
+# Projeto Website DSDB
 
 - Para acessar o meu site use este [link](https://katohenrique.github.io/Website/)
 
-### Quem eu sou
+## Quem eu sou
 
-# Eu sou Henrique Kato, graduado em Engenharia Elétrica pela UFPR e estou realizando Pós graduação Data Science & Big Data (DSDB). Inicialmente este site é para a pós, porém futuramente poderá se tornar o meu portfólio. Ainda está em testes iniciais e está bem simples
+- Eu sou Henrique Kato, graduado em Engenharia Elétrica pela UFPR e estou realizando Pós graduação Data Science & Big Data (DSDB). Inicialmente este site é para a pós, porém futuramente poderá se tornar o meu portfólio. Ainda está em testes iniciais e está bem simples
 
 
-### Histórico Profissional
+## Histórico Profissional
 
 # AGP do Brasil
 - Engenheiro Trainee na área do PCP
